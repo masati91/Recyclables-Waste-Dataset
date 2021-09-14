@@ -18,6 +18,9 @@ The project is based on [jms0923/tod](https://github.com/jms0923/tod).
 
 #### Val Dataset
 
+ val2017 has a copyright problem, so if you contact me, I will immediately send you a dataset by email.
+ 
+ sending to e-mail --> [masati@korea.ac.kr](masati@korea.ac.kr)
 
 
 #### Categories Number of Annotations
