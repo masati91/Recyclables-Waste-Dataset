@@ -1,12 +1,14 @@
 # Recyclables-Waste-Dataset 
 
-The project is based on [jms0923/tod](https://github.com/jms0923/tod). 
 
 Added data from the existing dataset and changed the validation set.
 
 The validation set used the dataset from Track 3 of the 2020 Artificial Intelligence Grand Challenge held in Korea. It followed the resource discharge and recycling classification guidelines defined by the Korean Ministry of Environment.
 
 Each image had an average of 6.71 annotations. The distribution of objects reflected the distribution of waste discarded in the real world, with the advantage of having the highest resolution and number of images among current open datasets.
+
+
+The project is based on [jms0923/tod](https://github.com/jms0923/tod). 
 
 #### Annotations
 
