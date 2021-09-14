@@ -70,15 +70,3 @@ If you want to know about more detail Data format reference    [COCO data format
 More usages can reference [mmdetection documentation](https://mmdetection.readthedocs.io/en/latest/GETTING_STARTED.html#inference-with-pretrained-models).
 
 
-
-## TODO
-- [X] Release pre-train models.
-- [ ] Update our arxiv paper.
-
-
-### Contact
-You can contact MinSeok Jo by sending email to jms0923@korea.ac.kr
-
-***
-![inference results](./img/inference_results.jpg)
-***
