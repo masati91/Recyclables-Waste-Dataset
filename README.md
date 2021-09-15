@@ -17,6 +17,8 @@ The project is based on [jms0923/tod](https://github.com/jms0923/tod).
 
 ## Train Dataset
 
+[Train Dataset Download](https://github.com/masati91/Recyclables-Waste-Dataset/releases/tag/v1.0)
+
 
 ## Val Dataset
 
